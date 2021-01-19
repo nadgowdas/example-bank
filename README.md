@@ -8,6 +8,7 @@ As people become more aware of data and concerned about their online privacy, re
 
 The GDPR standard defines requirements around what operations need to be available to users ("subjects"). However, GDPR is technology neutral, so it ends up being the responsibility of the implementors to build the architecture that implements the requirements. In addition, with the move toward microservice architectures and containerization, we have technology such as service mesh that may be useful in the context of a data privacy service.
 
+
 ## Included Components
 
 - [IBM Managed OpenShift](https://www.ibm.com/cloud/openshift)
